@@ -44,4 +44,3 @@ public class Triangle
         return this.color;
     }
 }
-
