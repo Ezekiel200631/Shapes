@@ -1,6 +1,6 @@
 import java.awt.*;
 
-public class Circle 
+public class Triangle 
 {
     private int radius;
     private String color;
@@ -8,7 +8,7 @@ public class Circle
     /**
      * Constructor for objects of class Circle
      */
-    public Circle(int radius, String color)
+    public Triangle(int radius, String color)
     {
         this.radius = radius;
         this.color = color;
